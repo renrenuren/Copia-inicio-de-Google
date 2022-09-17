@@ -1,0 +1,103 @@
+
+body {
+    background-color: #202124;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1 {
+    font-size: 80px;
+    letter-spacing: 2px;
+
+}
+
+.tituloybuscador {
+    text-align: center;
+    margin-top: -50px;
+    margin-bottom: 60px;
+}
+
+button {
+ background-color: #303134;
+ color: #dcdee1;   
+ margin: 3px;
+ padding: 10px;
+ border: none;
+ font-size: 12px;
+}
+
+img {
+    background-color: transparent;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+}
+
+input {
+    background-color: #303134;
+    border: none;
+    width: 550px;
+    height: 40px;
+    margin-top:-10px;
+    border-radius: 50px;
+
+}
+
+#buscador {
+    margin-top: -20px;
+}
+
+footer {
+    background-color: #171717;
+    color: #797d82;
+}
+
+#primerfooter {
+text-align: left;
+font-size: 15px;
+padding: 20px;
+margin-top: 40px;
+margin-bottom: -14px;
+margin-left: -10px;
+}
+
+#segundofooter {
+   
+    font-size: 13px;
+    padding: 15px;
+    margin-bottom: -50px;
+    margin-left: -10px;
+}
+
+
+.listagoogle
+{
+display: inline;
+list-style: none;
+margin-left: 10px;
+font-size: 13px;
+}
+
+.listafooter {
+list-style: none;
+display: inline;
+margin-right: 30px;
+
+}
+
+a:visited {
+text-decoration: none;
+color: #ffffff;
+}
+
+a:link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+
+a:hover {
+    text-decoration: underline;
+}
